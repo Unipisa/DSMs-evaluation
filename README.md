@@ -11,7 +11,7 @@ The link to download the models will be available soon.
 
 
 #### Reference
-if you use materials from this repository please cite this paper:
+if you use any material from this repository please cite this paper:
 ```
 @article{DBLP:journals/corr/abs-2105-09825,
   author    = {Alessandro Lenci and
