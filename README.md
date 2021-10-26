@@ -9,7 +9,12 @@ This analysis is composed of an intrinsic evaluation, an extrinsic evaluation, a
 This repository contains the material to reproduce extrinsic evaluation and RSA. The intrinsic evaluation can be found at this repository: https://github.com/patrickjeuniaux/word-embeddings-benchmarks
 
 #### Download the models
-The link to download the models will be available soon.
+
+To download the models write on command line:
+```
+wget http://coling-lab.humnet.unipi.it:8080/<model_url>
+```
+You can find the list of all models' urls in space_paths.txt.
 
 
 #### Reference
