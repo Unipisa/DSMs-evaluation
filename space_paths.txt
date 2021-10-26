@@ -1,0 +1,32 @@
+Bert-first-4 /Bert-first-4/bert_emb_first_4.txt
+Bert-last /Bert-last/bert_emb_last.txt
+Bert-last-4 /Bert-last-4/bert_emb_last_4.txt
+CBOW-w10-d300 /CBOW-w10-d300/targets_vectors.decoded
+CBOW-w2-d300 /CBOW-w2-d300/targets_vectors.decoded
+fastText-SGNS-w10-d300 /fastText-SGNS-w10-d300/fastText-10-300.vec
+fastText-SGNS-w2-d300 /fastText-SGNS-w2-d300/fastText-2-300.vec
+GloVe-w10-d300 /GloVe-w10-d300/vectors-w10-d300.decoded
+GloVe-w10-d300 for RSA /GloVe-w10-d300/vectors-w10-d300_rsa.decoded
+GloVe-w2-d300 /GloVe-w2-d300/vectors-w2-d300.decoded
+GloVe-w2-d300 for RSA /GloVe-w2-d300/vectors-w2-d300_rsa.decoded
+LSA-d300 /LSA-d300/log-entropy.lsi.u-300.decoded
+PPMI-synf-cs10k /PPMI-synf-cs10k/counts-ppmi-10000.dm.decoded
+PPMI-synf-cs10k for RSA /PPMI-synf-cs10k/counts-ppmi-10000_rsa.dm.decoded
+PPMI-synt-c500-cs10k /PPMI-synt-c500-cs10k/counts-ppmi-10000.dm.decoded
+PPMI-synt-c500-cs10k for RSA /PPMI-synt-c500-cs10k/counts-ppmi-10000_rsa.dm.decoded
+PPMI-w10-cs10k /PPMI-w10-cs10k/counts-ppmi-10000.decoded
+PPMI-w10-cs10k for RSA /PPMI-w10-cs10k/counts-ppmi-10000_rsa.decoded
+PPMI-w2-cs10k /PPMI-w2-cs10k/counts-ppmi-10000.decoded
+PPMI-w2-cs10k for RSA /PPMI-w2-cs10k/counts-ppmi-10000_rsa.decoded
+RI-w10-d2000 /RI-w10-d2000/text-1.distvecs.decoded
+RI-w10-d2000-perm /RI-w10-d2000-perm/text-1.distvecs.decoded
+RI-w2-d2000 /RI-w2-d2000/text-1.distvecs.decoded
+RI-w2-d2000-perm /RI-w2-d2000-perm/text-1.distvecs.decoded
+SGNS-synf-d300 /SGNS-synf-d300/targets_vectors.decoded
+SGNS-synt-c500-d300 /SGNS-synt-c500-d300/targets_vectors.decoded
+SGNS-w10-d300 /SGNS-w10-d300/targets_vectors.decoded
+SGNS-w2-d300/SGNS-w2-d300/targets_vectors.decoded
+SVD-synf-d300 /SVD-synf-d300/counts-ppmi-svd.decoded
+SVD-synt-c500-d300 /SVD-synt-c500-d300/counts-ppmi-svd.decoded
+SVD-w10-d300 /SVD-w10-d300/counts-ppmi-svd.decoded
+SVD-w2-d300 /SVD-w2-d300/counts-ppmi-svd.decoded
