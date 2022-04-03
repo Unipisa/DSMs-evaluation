@@ -20,22 +20,12 @@ You can find the list of all models' urls in space_paths.txt.
 #### Reference
 if you use any material from this repository please cite this paper:
 ```
-@article{DBLP:journals/corr/abs-2105-09825,
-  author    = {Alessandro Lenci and
-               Magnus Sahlgren and
-               Patrick Jeuniaux and
-               Amaru Cuba Gyllensten and
-               Martina Miliani},
-  title     = {A comprehensive comparative evaluation and analysis of Distributional
-               Semantic Models},
-  journal   = {CoRR},
-  volume    = {abs/2105.09825},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2105.09825},
-  eprinttype = {arXiv},
-  eprint    = {2105.09825},
-  timestamp = {Mon, 31 May 2021 16:16:57 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2105-09825.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@article{lenci2022comparative,
+  title={A comparative evaluation and analysis of three generations of Distributional Semantic Models},
+  author={Lenci, Alessandro and Sahlgren, Magnus and Jeuniaux, Patrick and Cuba Gyllensten, Amaru and Miliani, Martina},
+  journal={Language Resources and Evaluation},
+  pages={1--45},
+  year={2022},
+  publisher={Springer}
 }
 ```
