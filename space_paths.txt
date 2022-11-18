@@ -20,8 +20,12 @@ PPMI-w2-cs10k /PPMI-w2-cs10k/counts-ppmi-10000.decoded
 PPMI-w2-cs10k for RSA /PPMI-w2-cs10k/counts-ppmi-10000_rsa.decoded
 RI-w10-d2000 /RI-w10-d2000/text-1.distvecs.decoded
 RI-w10-d2000-perm /RI-w10-d2000-perm/text-1.distvecs.decoded
+RI-w10-d300 /RI-w10-d300/text-1.distvecs.decoded
+RI-w10-d300-perm /RI-w10-d300-perm/text-1.distvecs.decoded
 RI-w2-d2000 /RI-w2-d2000/text-1.distvecs.decoded
 RI-w2-d2000-perm /RI-w2-d2000-perm/text-1.distvecs.decoded
+RI-w2-d300 /RI-w2-d300/text-1.distvecs.decoded
+RI-w2-d300-perm /RI-w2-d300-perm/text-1.distvecs.decoded
 SGNS-synf-d300 /SGNS-synf-d300/targets_vectors.decoded
 SGNS-synt-c500-d300 /SGNS-synt-c500-d300/targets_vectors.decoded
 SGNS-w10-d300 /SGNS-w10-d300/targets_vectors.decoded
@@ -30,3 +34,4 @@ SVD-synf-d300 /SVD-synf-d300/counts-ppmi-svd.decoded
 SVD-synt-c500-d300 /SVD-synt-c500-d300/counts-ppmi-svd.decoded
 SVD-w10-d300 /SVD-w10-d300/counts-ppmi-svd.decoded
 SVD-w2-d300 /SVD-w2-d300/counts-ppmi-svd.decoded
+Topic-d300 /Topic-d300/lda-300.decoded
